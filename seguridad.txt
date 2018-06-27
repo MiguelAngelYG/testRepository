@@ -1,0 +1,43 @@
+ejercicios 
+
+que propiedad debe tener una funcion hash para que su uso en cifrado sea de interes 
+que no exista coliciones
+
+
+
+
+correo electronico 
+pretty good privacyty 
+
+
+
+
+PGP 
+Provee privacidad autenticacion, firmas diguitales, y comprencion de informacion en un paquete 
+costo 
+multiplataforma 
+algoritmoi hibrido
+basado en IDEA-128 algoritmo de cifrado simetrico 
+rsa algoritmo cifrado asimetrico
+
+md5 -- rsa ---- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
